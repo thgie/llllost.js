@@ -1,0 +1,22 @@
+{
+  "name": "llllost",
+  "version": "0.0.0",
+  "description": "scrap all images and metadata from your ffffound account",
+  "main": "llllost.js",
+  "dependencies": {
+    "chalk": "^0.5.1",
+    "cheerio": "latest",
+    "pin-it-node": "~0.1.0",
+    "request": "latest"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ffffound",
+    "scrap",
+    "pinterest"
+  ],
+  "author": "Adrian Demleitner <y@thgie.ch>",
+  "license": "MIT"
+}
